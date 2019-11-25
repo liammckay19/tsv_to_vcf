@@ -9,3 +9,12 @@ Example input file:
 |-----------|------------------|------------|
 | GroupName | name@example.com | First Last |
 
+Example output file:
+
+```BEGIN:VCARD
+VERSION:3.0
+N:Spaceseparated; Nameis;;;
+FN: NAMEIS SPACESEPARATED
+ORG: ORG;
+EMAIL: EMAIL@EMAIL.COM
+END:VCARD
